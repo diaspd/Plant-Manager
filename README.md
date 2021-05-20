@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img alt="" title="Plant Maneger" src="" width="220px" />
-</h1> 
-  <p width="220px" hight="240px" align="center">Plant Maneger</p>
+
+<p  width="100%" >Plant Maneger</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
