@@ -1,5 +1,5 @@
 
-<p  width="100%" >Plant Maneger</p>
+<p align="center" width="100%" >Plant Maneger</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
