@@ -1,11 +1,10 @@
 <h1 align="center">
   <img alt="" title="Plant Maneger" src="" width="220px" />
-</h1>
-
+</h1> 
+  <p width="220px" hight="240px" align="center">Plant Maneger</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -45,4 +44,4 @@ depois basta dar um "expo-start", e em outro console você inicia a api "fake" c
 <br> </br>
 
 To run, just give "npm i" or "yarn add nodemon -D" (if you have not installed the node)
-then just give an "expo-start", and on another console you start the "fake" api by placing your ip and dps just enjoy !!
+then just give an "expo-start", and on another console you start the "fake" api by placing your ip and after it just enjoy !!
