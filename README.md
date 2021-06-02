@@ -23,16 +23,18 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - TypeScript
 - JavaScript
+- React
+- React Native
 
 ## 💻 Projeto
 💰 Esse foi um projeto feito na Nlw#5 pela RocketSeat
 
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)
-# https://www.instagram.com/dias_pdr/
-# https://www.facebook.com/PedroDias24/
-# https://twitter.com/diaspdr_1
-# https://www.twitch.tv/diasgm_pdr
+https://www.instagram.com/dias_pdr/ <br>
+https://www.facebook.com/PedroDias24/ <br>
+https://twitter.com/diaspdr_1 <br>
+https://www.twitch.tv/diasgm_pdr <br>
 
 Se poder dar uma estrelinha, eu agradeço 🤩 <br> </br>
 If you can give a little star, I appreciate it 🤩
