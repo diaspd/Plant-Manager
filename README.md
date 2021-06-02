@@ -2,7 +2,7 @@
 <p align="center" width="100%" >Plant Manager</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 💰 Esse foi um projeto feito na Nlw#5 pela RocketSeat
 
 
-Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)
+Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)<br>
 https://www.instagram.com/dias_pdr/ <br>
 https://www.facebook.com/PedroDias24/ <br>
 https://twitter.com/diaspdr_1 <br>
