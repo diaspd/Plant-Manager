@@ -1,8 +1,8 @@
 
-<p align="center" width="100%" >Plant Manager</p>
+<h1 align="center">Plant Manager</h1>
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-Technologies"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,28 @@
   <img alt="" src="" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Getting started
+
+Clone the project and access the folder.
+
+```bash
+$ git clone https://github.com/
+$ cd 
+```
+
+Follow the steps below:
+```bash
+# Install the dependencies
+$ npm i
+
+# Start the project
+$ expo-start and
+$ the fake api
+```
+The app will be available for access on your browser at http://localhost:3000
+
+
+## 💻 Technologies
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -26,7 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - React Native
 
-## 💻 Projeto
+## 📄 Project
 💰 Esse foi um projeto feito na Nlw#5 pela RocketSeat
 
 
@@ -38,10 +59,3 @@ https://www.twitch.tv/diasgm_pdr <br>
 
 Se poder dar uma estrelinha, eu agradeço 🤩 <br> </br>
 If you can give a little star, I appreciate it 🤩
-
-Para rodar basta dar um "npm i" ou "yarn add nodemon -D"(caso você não tenha instalado o node)
-depois basta dar um "expo-start", e em outro console você inicia a api "fake" colocando seu ip e dps é só aproveitar!!
-<br> </br>
-
-To run, just give "npm i" or "yarn add nodemon -D" (if you have not installed the node)
-then just give an "expo-start", and on another console you start the "fake" api by placing your ip and after it just enjoy !!
