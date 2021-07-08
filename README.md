@@ -5,16 +5,10 @@
   <a href="#-Project">Project</a>
 </p>
 
-<p align="center">
- <img src="" alt="" />
-
-  <img alt="" src="">
-</p>
-
 <br>
 
 <p align="center">
-  <img alt="" src="" width="100%">
+  <img alt="" src="./src/assets/icon.png" width="80%">
 </p>
 
 ## 🚀 Getting started
