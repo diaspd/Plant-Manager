@@ -1,8 +1,8 @@
 
 <h1 align="center">Plant Manager</h1>
 <p align="center">
-  <a href="#-Technologies"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project"></a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>
 </p>
 
 <p align="center">
