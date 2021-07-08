@@ -16,7 +16,7 @@
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/
+$ git@github.com:diaspd/Plant-Manager.git
 $ cd 
 ```
 
