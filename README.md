@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="./src/assets/icon.png" width="80%">
+  <img alt="" src="/img.png" width="80%">
 </p>
 
 ## 🚀 Getting started
