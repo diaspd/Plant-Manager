@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Native
 
 ## 📄 Project
-💰 Esse foi um projeto feito na Nlw#5 pela RocketSeat
+💰 A project made on Nlw#5 by RocketSeat to help people to take care of his plants
 
 
 Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)<br>
