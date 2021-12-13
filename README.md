@@ -38,7 +38,6 @@ This project was developed with the following technologies:
 
 - TypeScript
 - JavaScript
-- React
 - React Native
 
 ## 📄 Project
