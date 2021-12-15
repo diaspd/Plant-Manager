@@ -35,10 +35,10 @@ The app will be available for access on your browser at http://localhost:3000
 ## 💻 Technologies
 
 This project was developed with the following technologies:
-
+- React Native
 - TypeScript
 - JavaScript
-- React Native
+
 
 ## 📄 Project
 💰 A project made on Nlw#5 by RocketSeat to help people to take care of his plants.
