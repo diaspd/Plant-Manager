@@ -44,11 +44,11 @@ This project was developed with the following technologies:
 💰 A project made on Nlw#5 by RocketSeat to help people to take care of his plants.
 
 
-Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)<br>
-https://www.instagram.com/dias_pdr/ <br>
-https://www.facebook.com/PedroDias24/ <br>
-https://twitter.com/diaspdr_1 <br>
-https://www.twitch.tv/diasgm_pdr <br>
+Feito com ♥ by Pedro Dias :wave: Me siga nas redes sociais!(😎)<br></br>
+https://www.instagram.com/dias_pdr/ <br></br>
+https://www.facebook.com/PedroDias24/ <br></br>
+https://twitter.com/diaspdr_1 <br></br>
+https://www.twitch.tv/diasgm_pdr <br></br>
 
 Se poder dar uma estrelinha, eu agradeço 🤩 <br> </br>
 If you can give a little star, I appreciate it 🤩
