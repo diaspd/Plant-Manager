@@ -35,10 +35,11 @@ The app will be available for access on your browser at http://localhost:3000
 ## 💻 Technologies
 
 This project was developed with the following technologies:
+<b>
 - React Native
 - TypeScript
 - JavaScript
-
+</b>
 
 ## 📄 Project
 💰 A project made on Nlw#5 by RocketSeat to help people to take care of his plants.
@@ -50,5 +51,4 @@ https://www.facebook.com/PedroDias24/ <br></br>
 https://twitter.com/diaspdr_1 <br></br>
 https://www.twitch.tv/diasgm_pdr <br></br>
 
-Se poder dar uma estrelinha, eu agradeço 🤩 <br> </br>
 If you can give a little star, I appreciate it 🤩
