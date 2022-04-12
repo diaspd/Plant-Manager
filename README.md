@@ -45,7 +45,8 @@ This project was developed with the following technologies:
 💰 A project made on Nlw#5 by RocketSeat to help people to take care of his plants.
 
 
-Feito com ♥ by Pedro Dias. 👋 Me siga nas redes sociais!<br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media!<br></br>
+
 https://www.instagram.com/dias_pdr/ <br></br>
 https://www.facebook.com/PedroDias24/ <br></br>
 https://twitter.com/diaspdr_1 <br></br>
