@@ -25,9 +25,10 @@ Follow the steps below:
 # Install the dependencies
 $ npm i
 
+# start the fake api
 # Start the project
 $ expo-start and
-$ start the fake api
+
 ```
 The app will be available for access on your browser at http://localhost:3000
 
